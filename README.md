@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Python Developer**
 
-- 💬 Ask me about **Python, Ruby, PHP, perl**
+- 💬 Ask me about **Python | Ruby | PHP | Perl**
 
 - 📫 How to reach me **rushabhbhutak@hotmail.com**
 
