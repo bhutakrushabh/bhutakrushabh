@@ -9,8 +9,6 @@
 
 - 👯 I have experience with **Web application security, Mobile application security, API security, vulnerability assessment and penetration testing.**
 
-- 🤝 I’m looking for help with **Python Developer**
-
 - 💬 Ask me about **Python | Ruby | PHP | Perl**
 
 - 📫 How to reach me **rushabhbhutak@hotmail.com**
