@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Red-Teaming**
 
-- 💬 Ask me about **Networking, Servers,and Cybersecurity.**
+- 💬 Ask me about **Networking, Servers and Cybersecurity.**
 
 - 📫 Reach me via **rushabhbhutak@gmail.com**
 
